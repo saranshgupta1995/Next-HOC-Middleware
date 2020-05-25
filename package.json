@@ -1,0 +1,16 @@
+{
+    "name": "next-high-order-middleware",
+    "version": "1.1.1",
+    "author": {
+        "name": "Saransh Gupta",
+        "email": "saranshgupta1995@gmail.com"
+    },
+    "description": "A tiny package to fake middlewares by a higher order function ",
+    "keywords": [
+        "Next Js",
+        "middleware",
+        "Next Js Middleware",
+        "javascript"
+    ],
+    "license": "MIT"
+}

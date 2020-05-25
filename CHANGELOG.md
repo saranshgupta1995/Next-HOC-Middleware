@@ -1,0 +1,1 @@
+<h3>v1.0.0</h3> expose a apply higher order function - now use fake hoc middlewares in next js
